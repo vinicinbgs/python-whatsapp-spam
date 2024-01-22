@@ -1,4 +1,4 @@
-# python-learning
+# python-whatsapp-spam
 
 Stupid spam bot to whatsapp web :joy:
 
